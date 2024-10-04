@@ -1,3 +1,3 @@
 HTML-CSS-JS-GSAP ile yapılmış örnek sayfadır
 
-![Screenshot](./assets/ss1.png)(https://menu-open-sample.vercel.app/)
+![Screenshot](./ss1.png)(https://mouse-trigger-sample.vercel.app/)
